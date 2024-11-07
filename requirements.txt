@@ -3,3 +3,4 @@ pandas==2.2.2
 yaml==6.0.1
 fastapi[standard]==0.111.1
 pydantic==2.7.4
+uvicorn==0.29.0
