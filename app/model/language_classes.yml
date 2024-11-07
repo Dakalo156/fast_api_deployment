@@ -1,0 +1,21 @@
+LANGUAGE_CLASSES:
+  - "Arabic"
+  - "Danish"
+  - "Dutch"
+  - "English"
+  - "French"
+  - "German"
+  - "Greek"
+  - "Hindi"
+  - "Italian"
+  - "Kannada"
+  - "Malayalam"
+  - "Portugeese"
+  - "Russian"
+  - "Spanish"
+  - "Sweedish"
+  - "Tamil"
+  - "Turkish"
+
+MODEL_VERSION:
+  - "0.1.0"
